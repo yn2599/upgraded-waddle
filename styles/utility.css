@@ -17,6 +17,9 @@
 .text-2xl {
   font: var(--h1);
 }
+.gap-32{
+  gap: 32px;
+}
 
 .text-xl {
   font: var(--h2);
