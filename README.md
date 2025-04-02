@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 <br />
 
 <p align="center">
-    <img align="center"  src="assets/icons/MagnifyingGlass.svg" alt="Buscar"/>
+    <img align="center"  src="assets/images/noticia.png" alt="Buscar"/>
 </p>
 
 <!--END_SECTION:footer-->
