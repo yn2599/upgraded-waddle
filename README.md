@@ -1,17 +1,15 @@
 # Portal de notícia!
 
-A new Flutter project.
+A new project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a news story.
 
-A few resources to get you started if this is your first Flutter project:
+Some resources to get you started if this is your first time writing a news story.
 
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For help getting started with the project, check out our code, what it offers.
+assets, styles, index.html.
 
 <!--START_SECTION:footer-->
 
