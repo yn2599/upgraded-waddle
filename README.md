@@ -22,7 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <p align="center">
   <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="yn2599.github.io/upgraded-waddle/" alt="banner"/>
+    <img align="center" src="yn2599.github.io/upgraded-waddle" alt="banner"/>
   </a>
 </p>
 
