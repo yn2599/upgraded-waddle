@@ -1,4 +1,4 @@
-# Portal de notícia!
+# News portal!
 
 A new project.
 
