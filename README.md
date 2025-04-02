@@ -21,7 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 <br />
 
 <p align="center">
-    <img align="center" src="yn2599.github.io/upgraded-waddle" alt="banner"/>
+    <img align="center" src="https://yn2599.github.io/upgraded-waddle/" alt="banner"/>
 </p>
 
 <!--END_SECTION:footer-->
